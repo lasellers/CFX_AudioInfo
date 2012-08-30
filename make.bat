@@ -19,4 +19,6 @@ jar uvf CFX_AudioInfo.jar log.class
 
 rem del *.class
 
+copy CFX_AudioInfo.jar ..\
+
 cd ..
